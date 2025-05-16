@@ -45,8 +45,3 @@ print(f"Produto: {nome_produto}")
 print(f"Preço unitário: R$ {preco_unitario:.2f}")
 print(f"Quantidade: {quantidade}")
 print(f"Preço total: R$ {preco_total:.2f}")
-
-#git config --global user.name "SNina11"
-#git config --global user.email "sandra.nina@icloud.com"
-
-#
