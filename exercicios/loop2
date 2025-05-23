@@ -1,0 +1,10 @@
+numeros = [5,8,3,-1,7]
+for num in numeros:
+    if num < 0 :
+        print("Número inválido")
+        break
+    elif num % 2 == 0:
+        continue
+    else:
+        print(f"Número {num}")
+        
